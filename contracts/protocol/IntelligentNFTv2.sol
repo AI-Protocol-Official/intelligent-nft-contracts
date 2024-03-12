@@ -4,7 +4,7 @@ pragma solidity ^0.8.4;
 import "../interfaces/ERC20Spec.sol";
 import "../interfaces/ERC721Spec.sol";
 import "../lib/StringUtils.sol";
-import "@lazy-sol/access-control/contracts/AccessControl.sol";
+import "@ai-protocol/access-control/contracts/AccessControl.sol";
 
 /**
  * @title Intelligent NFT Interface
